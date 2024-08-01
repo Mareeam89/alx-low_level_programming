@@ -34,7 +34,6 @@ int main(void)
 	new->str = NULL;
 	n = print_list(head);
 	printf("-> %lu elements\n", n);
-
 	free(new);
 	return (0);
 }
