@@ -1,1 +1,1 @@
-my hello world c programe
+Learning C programming basics

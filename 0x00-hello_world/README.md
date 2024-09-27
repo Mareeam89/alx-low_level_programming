@@ -1,1 +1,1 @@
-my readme
+writing hello world in Cprogramming
